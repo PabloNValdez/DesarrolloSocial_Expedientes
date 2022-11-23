@@ -46,6 +46,4 @@ Para levantar el servidor en http://localhost:8000
 ```
 php artisan serve
 ```
-
-
-# Sistema de Expedientes - Ministerio de Desarrollo Social
+# Ministerio de Desarrollo Social
