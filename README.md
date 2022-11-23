@@ -1,4 +1,4 @@
-# Sistema de Expedientes - Tribunal de Cuentas
+# Sistema de Expedientes - Ministerio de Desarrollo Social
 
 ## Despliegue en entorno local.
 
@@ -48,5 +48,4 @@ php artisan serve
 ```
 
 
-
-# DesarrolloSocial_Expedientes
+# Sistema de Expedientes - Ministerio de Desarrollo Social
